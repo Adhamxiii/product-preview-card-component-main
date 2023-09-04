@@ -14,7 +14,7 @@ This project is a responsive product preview card component built using HTML and
 
 ## Demo
 
-You can view a live demo of this project by visiting [Product Preview Card Demo](#).
+You can view a live demo of this project by visiting [Product Preview Card Demo](https://product-preview-card-component-main-chi-three.vercel.app/).
 
 ## Features
 
